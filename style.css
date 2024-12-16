@@ -1,0 +1,115 @@
+/* External CSS */
+body{
+	
+  font-family:Arial;
+}
+
+a{
+  text-decoration:none;
+}
+
+#main {
+	align-items:center; 
+	text-align:center; 
+	justify-content:center;
+	align-content:center;
+}
+
+#click_me{
+	background-color:black;
+	padding:2px;
+	border-radius:5px;
+	color:white;
+}
+
+.flex-container {
+	display:flex;
+	flex:1;
+	margin:0 10px 0 10px;
+	text-align:center !important;
+	justify-content:center !important;
+}
+
+nav {
+	padding:5px;
+}
+
+div h1{
+	color:white;
+	background-color:black;
+	padding:10px;
+	text-align:center;
+}
+
+#click_me:hover {
+	color:white !important;
+}
+
+.image {
+	align-items:center; 
+	text-align:center; 
+	justify-content:center;
+	align-content:center;
+}
+
+.banner * {
+	display:flex;
+	flex:1;
+	align-items:center; 
+	text-align:center; 
+	justify-content:center;
+	align-content:center;
+}
+
+.links {
+	text-align:center;
+	justify-content:center
+}
+
+nav a{
+	background-color:aqua;
+	text-align:center !important;
+	justify-content:center !important;
+	flex:1;
+}
+
+.center {
+	align-items:center; 
+	text-align:center; 
+	justify-content:center;
+	align-content:center;
+	margin:auto;
+	width:50%;
+	border:3px solid white;
+	padding:5px;
+}
+
+.banner1 * {
+	border:2px solid black;
+	align-items:center; 
+	text-align:center; 
+	justify-content:center;
+	align-content:center;
+	padding:100px;
+}
+
+.centertext {
+	align-items:center; 
+	text-align:center; 
+	justify-content:center;
+	align-content:center;
+	padding:10px;
+}
+
+.blackandwhite {
+	background-color:black;
+	color:white;
+	padding:2px;
+}
+
+
+
+
+
+
+
